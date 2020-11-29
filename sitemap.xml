@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>https://ystk0731.github.io/tags/git/</loc>
+    <lastmod>2020-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ystk0731.github.io/tags/hugo/</loc>
+    <lastmod>2020-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ystk0731.github.io/categories/memo/</loc>
     <lastmod>2020-11-29T00:00:00+00:00</lastmod>
   </url>
@@ -28,12 +38,18 @@
   </url>
   
   <url>
-    <loc>https://ystk0731.github.io/categories/%E5%82%99%E5%BF%98%E9%8C%B2/</loc>
+    <loc>https://ystk0731.github.io/tags/</loc>
     <lastmod>2020-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ystk0731.github.io/tags/</loc>
+    <loc>https://ystk0731.github.io/posts/how_to_update_your_blog/</loc>
+    <lastmod>2020-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ystk0731.github.io/categories/%E5%82%99%E5%BF%98%E9%8C%B2/</loc>
+    <lastmod>2020-11-29T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>

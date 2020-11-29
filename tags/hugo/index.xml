@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Memo on My Memo Site</title>
-    <link>https://ystk0731.github.io/categories/memo/</link>
-    <description>Recent content in Memo on My Memo Site</description>
+    <title>Hugo on My Memo Site</title>
+    <link>https://ystk0731.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on My Memo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ystk0731.github.io/categories/memo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Statement_of_belief</title>
-      <link>https://ystk0731.github.io/posts/statement_of_belief/</link>
-      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ystk0731.github.io/posts/statement_of_belief/</guid>
-      <description>とりあえずの所信?表明 Github Pageなるものを作成してみました。
-誰も見ていないと思いますが、長い目で見守ってください。
-月1程度で更新できたらいいなと思っております。</description>
-    </item>
-    
+    <lastBuildDate>Sun, 29 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ystk0731.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ブロクの更新方法</title>
       <link>https://ystk0731.github.io/posts/how_to_update_your_blog/</link>

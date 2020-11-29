@@ -18,5 +18,16 @@
 月1程度で更新できたらいいなと思っております。</description>
     </item>
     
+    <item>
+      <title>ブロクの更新方法</title>
+      <link>https://ystk0731.github.io/posts/how_to_update_your_blog/</link>
+      <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ystk0731.github.io/posts/how_to_update_your_blog/</guid>
+      <description>概要 作成したブログの更新方法を忘れそうなのでメモします。
+参考ページ 3分で GitHub にブログを作る (Hugo + GitHub Pages)
+環境構築 # 作業ディレクトリ作成 mkdir hogehoge cd hogehoge git clone https://github.com/&amp;lt;UserName&amp;gt;/&amp;lt;RepoName&amp;gt; cd &amp;lt;RepoName&amp;gt; git submodule update --init --recursive Webページ作成 # 記事作成 hugo new &amp;lt;DirName&amp;gt;/&amp;lt;ContentName&amp;gt; # 編集 vi &amp;lt;DirName&amp;gt;/&amp;lt;ContentName&amp;gt; # 記事をWebページに変換 hugo gitにアップ  # Webページのアップロード cd public git add . git commit -m &amp;quot;author commit&amp;quot; git push # 記事のアップロード cd .. git add . git commit -m &amp;quot;author commit&amp;quot; git push </description>
+    </item>
+    
   </channel>
 </rss>
